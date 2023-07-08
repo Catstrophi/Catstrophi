@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Catstrophi?tab=repositories](https://github.com/Catstrophi?tab=repositories)
 
-- ⚡ Fun fact **I forgot github was a thing**
+- ⚡ Fun fact **I like cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
