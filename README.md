@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hi, I'm Alex</h1>
 <h3 align="center">Hello, I'm a self-taught programmer venturing into the realm of programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catstrophi&label=Profile%20views&color=0e75b6&style=flat" alt="catstrophi" /> </p>
